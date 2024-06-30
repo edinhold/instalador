@@ -9,7 +9,8 @@ FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE
 ```bash
 sudo apt install -y git && git clone https://github.com/launcherbr/instalador.git instalador && sudo chmod -R 777 instalador  && cd instalador  && sudo ./install_primaria
 ```
-
+cd instalador  && sudo ./install_instacia
+```
 ## Requisitos
 
 | --- | Mínimo | Recomendado |
